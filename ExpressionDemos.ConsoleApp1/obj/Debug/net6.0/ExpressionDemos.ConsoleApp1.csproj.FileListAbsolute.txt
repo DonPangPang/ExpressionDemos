@@ -1,0 +1,15 @@
+D:\ExpressionDemos\ExpressionDemos.ConsoleApp1\bin\Debug\net6.0\ExpressionDemos.ConsoleApp1.exe
+D:\ExpressionDemos\ExpressionDemos.ConsoleApp1\bin\Debug\net6.0\ExpressionDemos.ConsoleApp1.deps.json
+D:\ExpressionDemos\ExpressionDemos.ConsoleApp1\bin\Debug\net6.0\ExpressionDemos.ConsoleApp1.runtimeconfig.json
+D:\ExpressionDemos\ExpressionDemos.ConsoleApp1\bin\Debug\net6.0\ExpressionDemos.ConsoleApp1.dll
+D:\ExpressionDemos\ExpressionDemos.ConsoleApp1\bin\Debug\net6.0\ExpressionDemos.ConsoleApp1.pdb
+D:\ExpressionDemos\ExpressionDemos.ConsoleApp1\obj\Debug\net6.0\ExpressionDemos.ConsoleApp1.csproj.AssemblyReference.cache
+D:\ExpressionDemos\ExpressionDemos.ConsoleApp1\obj\Debug\net6.0\ExpressionDemos.ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExpressionDemos\ExpressionDemos.ConsoleApp1\obj\Debug\net6.0\ExpressionDemos.ConsoleApp1.AssemblyInfoInputs.cache
+D:\ExpressionDemos\ExpressionDemos.ConsoleApp1\obj\Debug\net6.0\ExpressionDemos.ConsoleApp1.AssemblyInfo.cs
+D:\ExpressionDemos\ExpressionDemos.ConsoleApp1\obj\Debug\net6.0\ExpressionDemos.ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\ExpressionDemos\ExpressionDemos.ConsoleApp1\obj\Debug\net6.0\ExpressionDemos.ConsoleApp1.dll
+D:\ExpressionDemos\ExpressionDemos.ConsoleApp1\obj\Debug\net6.0\refint\ExpressionDemos.ConsoleApp1.dll
+D:\ExpressionDemos\ExpressionDemos.ConsoleApp1\obj\Debug\net6.0\ExpressionDemos.ConsoleApp1.pdb
+D:\ExpressionDemos\ExpressionDemos.ConsoleApp1\obj\Debug\net6.0\ExpressionDemos.ConsoleApp1.genruntimeconfig.cache
+D:\ExpressionDemos\ExpressionDemos.ConsoleApp1\obj\Debug\net6.0\ref\ExpressionDemos.ConsoleApp1.dll
