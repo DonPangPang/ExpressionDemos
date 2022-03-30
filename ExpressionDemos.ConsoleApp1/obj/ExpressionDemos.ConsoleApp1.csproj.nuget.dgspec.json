@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ExpressionDemos\\ExpressionDemos.ConsoleApp1\\ExpressionDemos.ConsoleApp1.csproj": {}
+    "d:\\ExpressionDemos\\ExpressionDemos.ConsoleApp1\\ExpressionDemos.ConsoleApp1.csproj": {}
   },
   "projects": {
-    "D:\\ExpressionDemos\\ExpressionDemos.ConsoleApp1\\ExpressionDemos.ConsoleApp1.csproj": {
+    "d:\\ExpressionDemos\\ExpressionDemos.ConsoleApp1\\ExpressionDemos.ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ExpressionDemos\\ExpressionDemos.ConsoleApp1\\ExpressionDemos.ConsoleApp1.csproj",
+        "projectUniqueName": "d:\\ExpressionDemos\\ExpressionDemos.ConsoleApp1\\ExpressionDemos.ConsoleApp1.csproj",
         "projectName": "ExpressionDemos.ConsoleApp1",
-        "projectPath": "D:\\ExpressionDemos\\ExpressionDemos.ConsoleApp1\\ExpressionDemos.ConsoleApp1.csproj",
+        "projectPath": "d:\\ExpressionDemos\\ExpressionDemos.ConsoleApp1\\ExpressionDemos.ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\ExpressionDemos\\ExpressionDemos.ConsoleApp1\\obj\\",
+        "outputPath": "d:\\ExpressionDemos\\ExpressionDemos.ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
