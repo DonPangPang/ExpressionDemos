@@ -1,21 +1,20 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30114.105
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionDemos.ConsoleApp1", "ExpressionDemos.ConsoleApp1\ExpressionDemos.ConsoleApp1.csproj", "{31802514-D8D3-4221-8F57-3E36E09BE38C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpressionDemos.ConsoleApp1", "ExpressionDemos.ConsoleApp1\ExpressionDemos.ConsoleApp1.csproj", "{31802514-D8D3-4221-8F57-3E36E09BE38C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionDemos.ConsoleApp2", "ExpressionDemos.ConsoleApp2\ExpressionDemos.ConsoleApp2.csproj", "{B05E511E-0C98-4F1C-85AB-0970FDB50C9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpressionDemos.ConsoleApp2", "ExpressionDemos.ConsoleApp2\ExpressionDemos.ConsoleApp2.csproj", "{B05E511E-0C98-4F1C-85AB-0970FDB50C9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionDemos.ConsoleApp3", "ExpressionDemos.ConsoleApp3\ExpressionDemos.ConsoleApp3.csproj", "{DEAC3060-D8AD-45E4-A27B-B33E4CBF3FE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpressionDemos.ConsoleApp3", "ExpressionDemos.ConsoleApp3\ExpressionDemos.ConsoleApp3.csproj", "{DEAC3060-D8AD-45E4-A27B-B33E4CBF3FE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.ConsoleApp1", "Test.ConsoleApp1\Test.ConsoleApp1.csproj", "{D35DE95D-0275-4665-B966-64E5B5F2F437}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{31802514-D8D3-4221-8F57-3E36E09BE38C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -30,5 +29,15 @@ Global
 		{DEAC3060-D8AD-45E4-A27B-B33E4CBF3FE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEAC3060-D8AD-45E4-A27B-B33E4CBF3FE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEAC3060-D8AD-45E4-A27B-B33E4CBF3FE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D35DE95D-0275-4665-B966-64E5B5F2F437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D35DE95D-0275-4665-B966-64E5B5F2F437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D35DE95D-0275-4665-B966-64E5B5F2F437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D35DE95D-0275-4665-B966-64E5B5F2F437}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {691B973D-1512-4B0F-8FBC-78E2CAEBFBC3}
 	EndGlobalSection
 EndGlobal
